@@ -1,9 +1,13 @@
 <h2 align="left">Hi 👋! My name is Bhavesh Konkar , Fresher at VIT pune</h2>
-
+<p>
+  --> I am a fresher at Vit Pune 🧑‍🎓
+  --> I just started With my coding journey 👨‍💻
+  --> I love working on webdev project 🌍
+</p>
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  ![bhaveshkonkar's Stats](https://github-readme-stats.vercel.app/api?username=bhaveshkonkar&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
