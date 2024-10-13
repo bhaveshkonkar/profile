@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/13639/instagram.svg" height="35" alt="instagram logo"  />
    <img width="12" />
-  <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/2476484.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcyNzYwODQzNCwicSI6bnVsbCwiaWF0IjoxNzI3MzQ5MjM0fQ__.83e21d4c0c75b29b42a131fa54745c79f2fd945b5392f996b62fc2c3544617c3" height="35" alt="gmail logo"  />
+
    <img width="12" />
   <img src="https://www.svgrepo.com/show/75820/linkedin.svg" height="35" alt="linkedin logo"  />
 </div>
